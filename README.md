@@ -3,6 +3,8 @@
 Tradercast broadcasts historical trading data to users via HyperCore peer to peer networks. This massively increases the speed at which historical datasets can be accessed and also greatly reduces load on exchange rest API's. 
 It's good for traders and good for exchanges
 
+![alt text](https://github.com/duffar12/bitfinex-hackathon-2018/blob/master/bitfinex_hackathon.png)
+
 ## The problem
 Traditionally historical data used by algorithmic traders, is extremely slow to download from an exchange via rest API's. It takes days and places a large load on exchange's web servers. Worse still, the painful process is repeated by all algorithmic traders compounding the problem. This is a perfect use case for a peer to peer network. Unlike centrally served networks, peer to peer networks become more efficient with heavier usage
 
